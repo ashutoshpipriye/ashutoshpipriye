@@ -1,4 +1,5 @@
-## Work HARD, Dream BIG!!
+<p align="center"><h1 align="center">Work HARD, Dream BIG!!</h1></p>
+
 
 ### Hello <img src="https://github.com/ashutoshpipriye/ashutoshpipriye/blob/master/Hi.gif" width="29px">
 
