@@ -30,7 +30,7 @@ Hi, I'm Ashutosh Pipriye, a Android Developer.I am a Final Year undergraduate st
 <p align="center">
   <a href="https://twitter.com/PipriyeAshutosh">
   <img align="center" alt="Pavan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+</a>&nbsp&nbsp
 <a href="https://www.linkedin.com/in/ashutosh-pipriye-847779188">
   <img align="center" alt="Ashutosh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>&nbsp&nbsp
@@ -53,9 +53,6 @@ Hi, I'm Ashutosh Pipriye, a Android Developer.I am a Final Year undergraduate st
   <img align="center" alt="Ashutosh's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>&nbsp&nbsp
 </p>
-
-<p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2ashutoshpipriye%2F" /></p>
-<br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashutoshpipriye" alt="ashutoshpipriye" /> </p>
 
 ⭐️ From [ashutoshpipriye](https://github.com/ashutoshpipriye)
