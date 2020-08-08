@@ -1,9 +1,9 @@
 
-### Hello <img src="https://github.com/ashutoshpipriye/ashutoshpipriye/blob/master/Hi.gif" width="29px"> , I'm Ashutosh Pipriye
+### Hello <img src="https://github.com/ashutoshpipriye/ashutoshpipriye/blob/master/Hi.gif" width="29px"> , I'm <a href="https://www.linkedin.com/in/ashutosh-pipriye-847779188"> Ashutosh Pipriye </a> :smiley:
 
-I am a Final Year undergraduate student. Always willing to learn and implement the new things. I love to explore new technologies and advantage them to solve societies real-life problems.<br /><br />
+I am a Final Year undergraduate student. Always willing to learn and implement the new things. I love to explore new technologies and advantage them to solve societies real-life problems.<br />
 
-**Current Info about me**  
+**Talking about me**  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 - 🔭 I’m currently working on Android Application project.
 - 🌱 I’m currently learning Cloud and React-Native...
@@ -20,9 +20,16 @@ I am a Final Year undergraduate student. Always willing to learn and implement t
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<br/>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<br/><br />
 
-![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutoshpipriye&show_icons=true)
+<a href="https://github.com/ashwanisng">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshpipriye&theme=radical&show_icons=true" />
+</a>
+<br />
+
+
+![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutoshpipriye&theme=radical&show_icons=true)
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/ashutoshpipriye/ashutoshpipriye/blob/master/Handshake.gif" height="33px" /></h3> 
@@ -56,4 +63,6 @@ I am a Final Year undergraduate student. Always willing to learn and implement t
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashutoshpipriye" alt="ashutoshpipriye" /> </p>
 
 ⭐️ From [ashutoshpipriye](https://github.com/ashutoshpipriye)
+
+
 
