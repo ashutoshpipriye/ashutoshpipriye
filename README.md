@@ -1,7 +1,7 @@
 
 ### Hello <img src="https://github.com/ashutoshpipriye/ashutoshpipriye/blob/master/Hi.gif" width="29px"> , I'm Ashutosh Pipriye
 
-I am a Android Developer.I am a Final Year undergraduate student. Always willing to learn and implement the new things. I love to explore new technologies and advantage them to solve societies real-life problems.<br /><br />
+I am a Final Year undergraduate student. Always willing to learn and implement the new things. I love to explore new technologies and advantage them to solve societies real-life problems.<br /><br />
 
 **Current Info about me**  
 
