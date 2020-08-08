@@ -3,7 +3,7 @@
 
 I am a Final Year undergraduate student. Always willing to learn and implement the new things. I love to explore new technologies and advantage them to solve societies real-life problems.<br />
 
-**Talking about me**  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+**Talking about me** 
 
 - 🔭 I’m currently working on Android Application project.
 - 🌱 I’m currently learning Cloud and React-Native...
