@@ -21,6 +21,9 @@
 <a href="https://medium.com/@ashutoshpipriye">
   <img align="left" alt="Ashutosh's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+<a href="https://stackoverflow.com/users/12311262/ashutosh-pipriye">
+  <img align="left" alt="Ashutosh's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
 
 <br />
 
