@@ -31,27 +31,27 @@ Hi, I'm Ashutosh Pipriye, a Android Developer.I am a Final Year undergraduate st
   <a href="https://twitter.com/PipriyeAshutosh">
   <img align="center" alt="Pavan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ashutosh-pipriye-847779188" target="blank">
+<a href="https://www.linkedin.com/in/ashutosh-pipriye-847779188">
   <img align="center" alt="Ashutosh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+</a>&nbsp&nbsp
 <a href="https://github.com/ashutoshpipriye">
   <img align="center" alt="Ashutosh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+</a>&nbsp&nbsp
 <a href="https://t.me/AshutoshPipriye">
   <img align="center" alt="Ashutosh's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
+</a>&nbsp&nbsp
 <a href="https://instagram.com/pipriyeashutosh/">
   <img align="center" alt="Ashutosh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a>&nbsp&nbsp
 <a href="http://dev.to/ashutoshpipriye" target="blank">
   <img align="center" alt="Ashutosh's Dev Community" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-</a>
+</a>&nbsp&nbsp
 <a href="https://medium.com/@ashutoshpipriye">
   <img align="center" alt="Ashutosh's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
+</a>&nbsp&nbsp
 <a href="https://stackoverflow.com/users/12311262/ashutosh-pipriye">
   <img align="center" alt="Ashutosh's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
-</a>
+</a>&nbsp&nbsp
 </p>
 
 <p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2ashutoshpipriye%2F" /></p>
