@@ -1,6 +1,6 @@
 ## Work HARD, Dream BIG!!
 
-### Hi there. I am Ashutosh Pipriye  <img src="https://github.com/ashutoshpipriye/ashutoshpipriye/Hi.gif" width="29px">
+### Hi there. I am Ashutosh Pipriye  <img src="https://github.com/ashutoshpipriye/ashutoshpipriye/blob/master/Hi.gif" width="29px">
 
 I am a Final Year undergraduate student pursuing B. Tech degree. Always trying to learn and implement the new things. Have an experience in the fields of Android Development and Database Handling. Also, interested in the field of Data Science. <br /><br />
 🤔 Looking for a job which would help me make most of my skills.
