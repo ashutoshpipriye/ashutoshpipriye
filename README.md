@@ -1,7 +1,9 @@
-### Hi there 👋
+## Work HARD, Dream BIG!!
 
-<!--
-**ashutoshpipriye/ashutoshpipriye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there. I am Ashutosh Pipriye 👋 
+
+I am a Final Year undergraduate student pursuing B. Tech degree. Always willing to learn and implement the new things. Have an experience in the fields of Android Development and Database Handling. Also, interested in the field of Data Science. <br /><br />
+🤔 Looking for a job which would help me make most of my skills.
 
 Here are some ideas to get you started:
 
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
