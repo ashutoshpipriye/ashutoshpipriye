@@ -1,14 +1,11 @@
-<p align="center"><h1 align="center">Work HARD, Dream BIG!!</h1></p>
 
+### Hello <img src="https://github.com/ashutoshpipriye/ashutoshpipriye/blob/master/Hi.gif" width="29px"> , I'm Ashutosh Pipriye
 
-### Hello <img src="https://github.com/ashutoshpipriye/ashutoshpipriye/blob/master/Hi.gif" width="29px">
-
-Hi, I'm Ashutosh Pipriye, a Android Developer.I am a Final Year undergraduate student pursuing B. Tech degree. Always willing to learn and implement the new things. I love to explore new technologies and advantage them to solve societies real-life problems.<br /><br />
-🤔 Looking for a job which would help me make most of my skills.
+I am a Android Developer.I am a Final Year undergraduate student. Always willing to learn and implement the new things. I love to explore new technologies and advantage them to solve societies real-life problems.<br /><br />
 
 **Current Info about me**  
 
-- 🔭 I’m currently working on my Final year project.
+- 🔭 I’m currently working on Android Application project.
 - 🌱 I’m currently learning Cloud and React-Native...
 - 💬 Ask me about anything, I'm happy to Help...
 - 📫 How to reach me: ashutoshpipriye123@gmail.com
