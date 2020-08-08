@@ -1,6 +1,6 @@
 ## Work HARD, Dream BIG!!
 
-<a href="https://twitter.com/ashutoshpipriye">
+<a href="https://twitter.com/PipriyeAshutosh">
   <img align="left" alt="Pavan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/ashutoshpipriye">
@@ -15,7 +15,7 @@
 <a href="https://instagram.com/ashutoshpipriye/">
   <img align="left" alt="Pavan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/ashutoshpipriye/">
+<a href="https://www.facebook.com/ashutosh.pipriye/">
   <img align="left" alt="Pavan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
