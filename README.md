@@ -23,18 +23,15 @@ I am a Final Year undergraduate student. Always willing to learn and implement t
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br/><br />
 
-<div align="center">
+
   <a href="https://github.com/ashutoshpipriye">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshpipriye&theme=radical&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshpipriye&theme=radical&show_icons=true" />
 </a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ashutoshpipriye&theme=radical&show_icons=true" />
-</div>
 
 <br />
-<br/>
 
-
-
+![Ashutosh Pipriye Github stats](https://github-readme-stats.vercel.app/api?username=ashutoshpipriye&theme=radical&show_icons=true)
+ 
 
 
 <div align="center">
