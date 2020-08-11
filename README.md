@@ -5,7 +5,7 @@ I am a Final Year undergraduate student. Always willing to learn and implement t
 
 **Talking about me** 
 
-- 🔭 I’m currently working on Android Application project.
+- 🔭 I’m currently working on android application.
 - 🌱 I’m currently learning Cloud and React-Native...
 - 💬 Ask me about anything, I'm happy to Help...
 - 📫 How to reach me: ashutoshpipriye123@gmail.com
@@ -23,7 +23,7 @@ I am a Final Year undergraduate student. Always willing to learn and implement t
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br/><br />
 
-<a href="https://github.com/ashwanisng">
+<a href="https://github.com/ashutoshpipriye">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshpipriye&theme=radical&show_icons=true" />
 </a>
 <br />
