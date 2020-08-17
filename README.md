@@ -5,7 +5,7 @@ I am a Final Year undergraduate student. Always willing to learn and implement t
 
 **Talking about me** 
 
-- 🔭 I’m currently working on android application.
+- 🔭 I’m currently working on to increase the knowledge.
 - 🌱 I’m currently learning Cloud and React-Native...
 - 💬 Ask me about anything, I'm happy to Help...
 - 📫 How to reach me: ashutoshpipriye123@gmail.com
