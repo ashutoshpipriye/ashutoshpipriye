@@ -62,6 +62,9 @@ I am a Final Year undergraduate student. Always willing to learn and implement t
 <a href="https://stackoverflow.com/users/12311262/ashutosh-pipriye">
   <img align="center" alt="Ashutosh's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>&nbsp&nbsp
+  <a href="https://google.qwiklabs.com/public_profiles/6d08d7fc-32a6-414e-95b6-6f97d552624c">
+  <img align="center" alt="Ashutosh's Google Cloud Training" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/googlecloud.svg" />
+</a>&nbsp&nbsp
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashutoshpipriye" alt="ashutoshpipriye" /> </p>
 
