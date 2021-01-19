@@ -38,7 +38,7 @@ I am a Final Year undergraduate student. Always willing to learn and implement t
 </div>
 <p align="center">
   <a href="https://twitter.com/PipriyeAshutosh">
-  <img align="center" alt="Pavan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="center" alt="Ashutosh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>&nbsp&nbsp
 <a href="https://www.linkedin.com/in/ashutosh-pipriye-847779188">
   <img align="center" alt="Ashutosh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
