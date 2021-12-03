@@ -1,11 +1,11 @@
 
 ### Hello <img src="https://github.com/ashutoshpipriye/ashutoshpipriye/blob/master/Hi.gif" width="29px"> , I'm <a href="https://www.linkedin.com/in/ashutosh-pipriye-847779188"> Ashutosh Pipriye </a> :smiley:
 
-I am a Final Year undergraduate student. Always willing to learn and implement the new things. I love to explore new technologies and advantage them to solve societies real-life problems.<br />
+Always willing to learn and implement the new things. I love to explore new technologies and advantage them to solve societies real-life problems.<br />
 
 **Talking about me** 
 
-- 🌱 I’m currently learning Cloud and React...
+- 🌱 I’m currently learning Node js...
 - 💬 Ask me about anything, I'm happy to Help...
 - 📫 How to reach me: ashutoshpipriye123@gmail.com
 
